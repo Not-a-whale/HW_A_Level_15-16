@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=LAPTOP-NGTI8E14;Initial Catalog=Project;Integrated Security=True;Pooling=False"
+  }
+}
